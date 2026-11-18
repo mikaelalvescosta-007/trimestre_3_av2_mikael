@@ -23,13 +23,13 @@ programa {
         // ===================================================
           escreva("--- REMOVER ITEM DO CARRINHO ---\n")
 
-          escreva("1. Camisa Esportiva (No carrinho: ", qtd_carrinho_prod1, ")\n")
+          escreva("1. Camisa Esportiva (No carrinho: ")
 
-          escreva("2. Boné Casual       (No carrinho: ", qtd_carrinho_prod2, ")\n")
+          escreva("2. Boné Casual       (No carrinho: ")
 
-          escreva("3. Tênis de Corrida (No carrinho: ", qtd_carrinho_prod3, ")\n")
+          escreva("3. Tênis de Corrida (No carrinho: ")
 
-          escreva("Escolha o item que deseja remover totalmente: \n")
+          escreva("Escolha o item que deseja remover totalmente: ")
 
   }
 }
